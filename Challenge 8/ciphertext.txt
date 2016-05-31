@@ -1,0 +1,13 @@
+Ciphertext: "eFjdlwKgeFlscbApnQEsny3tnye0frxnlrQ5vliW3Yx=5Al●S1nT4obQHql●Ozl●KqeG5252"
+
+Hint:
+Cipher table structure has been modified. Example set up of decrypt/encrypt table using example key - glassfish
+
+example table:  G L A S F I H B
+		C D E J K M N O
+		P Q R T U V W X
+		Y Z g l a s f i
+		h b c d e j k m
+		n o p q r t u v
+		w x y z 0 1 2 3
+		4 5 6 7 8 9 = ●

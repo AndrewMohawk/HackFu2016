@@ -1,0 +1,60 @@
+You’ve been walking for three days now, and the rations you took from Milford’s manor are getting low. You’re pretty sure you’re headed in Jarta’s direction, as you’ve been following the signs, but rickety and easily displaced wooden signs aren’t always certain to point where they say they do.
+
+Your father used to tell you stories about how particularly devious gangs of marauders would turn signs around to lure unwary travellers into their lairs. Most of your childhood nightmares were about that. But since encountering a few marauders firsthand, you’ve started to believe your father’s stories are completely made up. Real marauders don’t need clever tricks. They don’t lure travellers into traps – they just kill the ones they come across.
+
+Your instincts are proven correct when you finally see a settlement in the distance. Clumps of tents and shacks cluster around a large building with a domed roof – this must be the Jarta planetarium.
+
+It is quite late when you reach the town, and you encounter no people outside. You hesitate outside the planetarium’s large double-doors briefly before knocking.
+
+For a long moment, you wait as the echoes of your knock fade into the still night. Then you hear a shuffling sound, followed by clanking and creaking as the doors before you slide open.
+
+Two faces appear, one on each side of the door. Their smiles are a little too wide, and their eyes display some indefinable quality that makes you uneasy. They greet you in unison, with a cheerful but enigmatic, “The stars shine upon you!”
+
+The greeters quickly usher you inside, and before you know it you’re right in the middle of a dark room choked with people. A mass of happy strangers jostles around you, screaming in tongues. Disorientated, you focus straight ahead in an effort to steady yourself. Through the darkness, you can just about make out a figure on a raised platform in the middle of the room.
+
+The figure raises their arms above their head, and instantly the room is still and silent. Then the ceiling explodes with a million tiny points of light. The points swirl around, and gasps of awe ripple through the room.
+
+“Behold,” booms the powerful voice of the figure in the middle of the room, “the night sky as it was in the days of our ancestors! The stars beyond the smog!”
+
+At these words from the figure who must be their high priestess, all around the room, people drop to their knees, eyes staring up at the ceiling. You hypothesize that this is the beginning of a ritual, and respectfully follow suit.
+
+“In those days, the stars smiled down on our people, and the world was good and pure,” bellows the priestess. “Humankind lived in prosperity and wonder, through the favour of the heavens.”
+
+Around you, everyone bends to bring their faces to the ground.
+
+“But the people grew wicked, and the stars turned from them. The people would not repent, and a veil was draped around the earth, separating us from the stars.”
+
+Cries of anguish and soft weeping sound around you.
+
+“There was much suffering. Humankind fell from their place of privilege, into the dirt. Without the protection of the stars, death, famine and disease preyed upon our helpless race.”
+
+The cries die down, and everyone raises their heads.
+
+“Now we must begin the slow journey back to the light.”
+
+Slowly, the people rise to their feet. “We will reach for the stars,” they drone in unison.
+
+You barely have time to cringe at this before all eyes are suddenly turned on you. The stars on the ceiling swirl around once more, and the light of a full moon shines down on your head.
+
+“This one is an outsider,” declares the priestess. “But this outsider has been sent by the stars to solve the great mystery of the heavens, and bring us one step forward in our long journey. Come forward, outsider.”
+
+Propelled by the throngs, you almost glide to the middle of the room and ascend the central platform. The priestess looks at you gravely. Her face is lined with age and wisdom, and her stare penetrates your soul. After a long moment, she nods slowly, and you release a sigh of relief you hadn’t realised you where holding in.
+
+“The heavens have delivered unto us three instruments,” she announces. “A map of the cursed terrestrial sphere, a camera containing images of the disappeared world, and a sextant to guide us on our journey. Even in these days, the mercy of the stars overwhelms us in abundance!”
+
+“We reach for the stars!” the audience cries.
+
+“And now we receive the fourth instrument: the stranger who is to light the way.”
+
+“The stars shine upon us!”
+
+With no small amount of ceremony, the priestess hands you the map, camera, sextant and an elaborately ornate piece of parchment covered in cursive ciphertext. You notice the words “PLAY FAIR” scratched into the side of the sextant’s telescope. The crowd erupts with cheers, and the sound of rejoicing is almost deafening. But when the priestess raises a hand, all is instantly silent.
+
+Looking to you, the priestess says, “Now you must play your part, guide. Reveal to us what message the stars have sent.”
+
+You’re hoping the crowd will disperse to let you solve this puzzle in peace, but have no such luck. All eyes remain rivetted on you as you take out your battered laptop and fumble with the camera’s USB cable.
+
+At least they’re quiet.
+
+
+Challenge: Decode the ciphertext to obtain a passphrase.

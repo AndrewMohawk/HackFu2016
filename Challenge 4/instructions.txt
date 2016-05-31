@@ -1,0 +1,10 @@
+The campfire is down to smoldering embers. You listen to the signal coming from your radio. One again, you double check the frequency and wiggle the dial in hopes you’re just slightly off and this strange noise isn’t what you’re actually supposed to be hearing.
+
+No such luck. You’re not sure why you were expecting things to be easier. There was absolutely no way that MM, whoever they may be, would have given you a straightforward audio message. There’s another puzzle here, and there’s going to be more coming.
+
+You listen to the sound as it loops a few more times, and then place the radio carefully on the ground before reaching once more for your trusty laptop.
+
+You toss some more wood on the fire.
+
+
+Challenge: Analyse the audio file to retrieve a hidden message.

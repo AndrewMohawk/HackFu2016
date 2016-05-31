@@ -1,0 +1,40 @@
+The settlement of Onia is spread before you, its mixture of rehabilitated prebomb structures and recent makeshift constructions stretching towards the horizon in every direction. You haven’t been here in years, but you know it wasn’t this big last time. People must really like the marketplace.
+
+A large man with an almost equally large gun stands underneath a rusted signpost, its meaning long since lost to time. You see from his uniform that the he is one of Onia’s border patrolmen. Possibly, also, he is just pretending to be an Onia border patrolman, but you’re almost close enough to find out.
+
+“Halt, traveller!” he yells. “State your business in Onia.”
+
+So far, so legitimate. You tell the guard you’re here to attend the market.
+
+The guard nods and gives you a brief, curt summary of the laws of the settlement. Weapons are allowed, but anyone seen to be brandishing one will be shot on sight. Murder is allowed, but anyone seen to murder anyone will be shot on sight. Counterfeiting is allowed, but anyone found to be counterfeiting will be shot on sight. And lastly, citizens and visitors in Onia are permitted to steal from others, but will be shot if caught doing so.
+
+“Your freedom ends where mine begins,” the guard tells you.
+
+“My freedom begins where yours ends,” you reply, in the customary Onian fashion.
+
+The guard salutes you and swiftly departs. You breathe a sigh of relief on having the good fortune to encounter a legitimate border patrolman and continue into the settlement.
+
+---
+
+If you can imagine it, you can buy it somewhere in the Onia marketplace. Situated in what was once the center of the settlement, the famous marketplace is a bustling, crowded maze of stalls large and small, professional and amateur, expensive and cheap.
+
+You walk between the stalls, absorbing the atmosphere.
+
+“State-of-the-art refurbished generators, half price! Today only, get a generator in exchange for just one newborn!”
+
+“Exercise your freedom with Fiery Filood’s Ferocious Flamethrowers! Prices negotiable. No bottlecaps accepted.”
+
+“Delicious, nutritious Meal-in-a-Can! Salvaged from the finest dining establishments of the old world!”
+
+At last, you reach the stall named in the mysterious message on the flashdrive. Tinface, of Tenacious Tinface’s Technology Tent, blinks her one visible eye at you as you approach. An oval piece of tin is fixed in her other eyesocket.
+
+As instructructed, you wordlessly hand Tinface the flashdrive and a full transcription of its decrypted contents, hastily scrawled over a page ripped out of one of your few books.
+
+After carefully scrutinising the transcribed message, Tinface nods and then ducks under the display table. After rummaging around for a bit, she pulls out something heavy and covered in a ratty cloth, and dumps it on the table in front of you.
+
+Tinface whisks away the cloth, disturbing a large cloud of dust that gets in your vision. Rubbing the dirt off your goggles, you see that the object is a jagged stone slab, unremarkable save for a strange inscription carved on the side facing you.
+
+Tinface blinks again. “Solve.” This is her only word to you.
+
+
+Challenge: Analyse the image and retrieve a hidden key.

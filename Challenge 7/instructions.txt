@@ -1,0 +1,26 @@
+After the deepest sleep you’ve ever experienced, on the softest bed you’ve ever slept on (you can’t recall the last time you slept on an actual bed, let alone a soft one), you awake to soft chirping sounds. The noises seems to be coming from outside. You get out of bed and draw the curtains.
+
+The chirping sounds are coming from docile, midget birds sitting in the trees – a far cry from the bluzzard and death eagles you’re used to. Though the birds seem non-threatening, your hand instinctively grasps the fastener on the window, and you check that it is shut tight. It never pays to take a chance with birds.
+
+---
+
+“Good morning, good morning!” Milford says cheerfully once you make your descent. “Why are you still wearing those rags? Didn’t you see the nice clothes I had laid out for you?”
+
+You shrug. His choice of outfit wouldn’t protect you for five seconds in a dust storm.
+
+“If you hadn’t solved so many of MM’s puzzles, I wouldn’t take that for an answer.”
+
+Though he follows this statement with a hearty chuckle, there’s something sinister in his tone that sets you on edge.
+
+“Anyway, I have another puzzle for you to solve! Follow me, and try not to track mud, haha!”
+
+Milford leads you into a small room in the back of the house, the only feature of which is a plain wooden desk and chair. On the desk sits a well-maintained desktop computer with a small square screen.
+
+Milford bids you watch the screen over his shoulder as he pecks out a login password and slowly drags the mouse around. Eventually, he opens a folder on the desktop named “MM”. Inside the folder you see a document with the filename “OPENME.DOC”.
+
+“It says ‘open me’, but I just can’t get it open!” Milford cries. “Typical of MM’s sense of humour. But maybe you’ll have more luck. I really don’t have time to fiddle so much with these infernal machines.”
+
+You wave Milford aside and double-click the document. Unsurprisingly, it’s not that easy.
+
+
+Challenge: The document contains a flag within, retrieve it to continue.

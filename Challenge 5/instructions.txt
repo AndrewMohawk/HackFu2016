@@ -1,0 +1,71 @@
+You’ve never seen such a verdant shade of green as the leafy tops of the trees that now form a focal point up ahead, peaking over the high and solid concrete walls which surround Eden. The colour makes you uneasy, so you focus on the grey of the wall instead. Intellectually, you’re well aware that the leaves look like leaves are supposed to, unpoisoned, but it feels like you’re halluncinating after watching a particularly pristine old movie disc.
+
+Set into the middle of the wall is an enormous metal door, polished and gleaming in the sunlight. The door sits adjacent to the termination of the dirt path leading up to itself, a symbol of Eden’s rejection of the outside world.
+
+Your stomach is queasy with nerves as you come closer and closer to the door. You’ve never heard of anyone who’s successfully gotten into Eden from the outside world, or come out of Eden. You’ve never even heard of someone who’s tried and failed. Your eyes dart around the imposing surface of the wall, searching for turrets.
+
+Though your steps grow ever shorter as you approach, you soon find yourself within knocking distance of the great metal door. You wrap a rag around your hand so as not to touch its hot surface and wrap your knuckles against the door three times.
+
+Before you’ve even completed your final knock, a voice booms down from on-high. “ONLY THOSE MAY ENTER WHO POSSESS THE KNOWLEDGE OF GOOD AND EVIL.”
+
+You chuckle inwardly at the irony. “I have this knowledge,” you shout back to the voice.
+
+“LET THE ONE WHO HAS THE KNOWLEDGE REPEAT THE PASSPHRASE FROM WHICH THE KNOWLEDGE DERIVES.”
+
+You consider for a moment. “apple”
+
+“INCORRECT. THREE ATTEMPTS REMAINING.”
+
+“Apple123”
+
+“INCORRECT. TWO ATTEMPTS REMAINING.”
+
+“Apple123!”
+
+“INCORRECT. ONE ATTEMPT REMAINING.”
+
+Okay, it’s probably not going to be that easy.
+
+“AND ON THE FOURTH FAILED ATTEMPT, THE TREE OF LIFE WAS REMOVED FROM THE UNWISE ONE.”
+
+Right, better not waste that one. You survey your surroundings, in search of anything that might help you figure out the password. There’s not very much around that could possibly help you, but just as you’re about to give up hope, you see a very conspicuous red-coloured rock lying on the ground just next to the enormous door. A grimy slip of white juts out from underneath the rock.               
+
+You lift the rock and discover a folded piece of paper. Unfolding it, you discover a set of cryptic lines, written in small, neat handwriting.
+
+OIOOb
+_IOI0
+OI_If
+IOOO6
+_OOO8
+I_II9
+II__3
+_IOO1
+O__I2
+OIOI9
+OOOOa
+_III8
+IOI_f
+OO_Of
+OIIIe
+_OIO0
+OOIOb
+_IO_1
+_IIO4
+IO_Oe
+OIO_d
+__IOc
+IIOIe
+O_OO4
+IIIId
+IOIO9
+IOOI8
+IO_Ic
+IO_I0
+IIIO8
+OO_I5
+OOII8
+
+The letters “MM” are written on the bottom-right corner of the paper.
+
+
+Challenge: Retrieve a phrase by assembling the string puzzle.

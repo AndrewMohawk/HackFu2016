@@ -1,0 +1,26 @@
+7The flash disk contains a directory called “Books”, a text file named “readme” and another file named “solution”, which appears to be encrypted.
+
+Within “Books”, you find about 50 plaintext files that appear to be the entire texts of classic works of literature. The “readme” file contains the following text:
+
+85,8
+124,11
+1984,8
+3,5
+901,1
+3,13
+8546,12
+5,2
+3,4
+85,10 
+3437,7
+
+You search the flashdisk for hidden files but discover none. There’s no explanation of what the numbers mean anywhere. What’s more, the encrypted “solution” file doesn’t yield to any common password.
+
+It must be a puzzle. No doubt some clever challenge invented by some idle person living before the bombs fell, back when people didn’t have to scavenge or fight just to survive, and could immerse themselves in these kinds of pointless mental exercises.
+
+You’re just about to unplug the USB drive in disgust when your eyes glance over the timestamps on the files. Your hand stops dead as you realise: these files were created after the bombs. In fact, if you’re not mistaken about today’s date… the files were created yesterday.
+
+This puts a whole new spin on things. Someone, someone very much alive and relevant, wanted you to find this flashdisk. There must be a very important message hidden in the solution file. But they’re testing you.
+
+
+Challenge: Find the key by breaking the book cipher.
