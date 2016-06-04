@@ -6,16 +6,9 @@ echo "total is: $total"
 lastPercent=0
 while read -r line;do
 		chomped_line=${line%$'\r'}
-		#echo "Line # $k: $line"
-		#echo "-----------------"
 		openssl enc -aes-256-cbc -base64 -d -in solution.txt.enc -out out/$chomped_line -pass pass:$chomped_line 2> /dev/null
-        #openssl enc -aes-256-cbc -base64 -d -in c1.enc -out out/$chomped_line -pass pass:$chomped_line 2> /dev/null
-        
 		if [ $? -eq 0 ]; then
-            #echo "$k Candidate password: $line "
-			yes=no	
-			#echo "openssl enc -aes-256-cbc -base64 -d -in challenge5-solution-real.txt.enc -out t -k"
-			#exit 0
+			yes=no #wut.	
 		else
 			rm out/$chomped_line
 		fi
