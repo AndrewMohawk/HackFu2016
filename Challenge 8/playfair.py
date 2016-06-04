@@ -1,4 +1,6 @@
-# stoled from :https://stackoverflow.com/questions/5428069/my-python-method-isnt-working-correctly-skipping-items-in-a-list-playfair-cip
+# stoled from :
+# https://github.com/joelverhagen/Python-Playfair/blob/master/playfair.py
+# https://stackoverflow.com/questions/5428069/my-python-method-isnt-working-correctly-skipping-items-in-a-list-playfair-cip
 def makePlayFair(key, alpha):
 	letters = []
 	for letter in key + alpha:
