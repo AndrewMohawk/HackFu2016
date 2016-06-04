@@ -1,0 +1,12 @@
+DC046_2015:12:01.jpg / Tokyo Tower / 35.6585805,139.7454329
+DC097_2015:03:01.jpg / abuja National Mosque nigeria / 9.0603227, 7.4891962
+DC097_2015:06:01.jpg / texas state capitol / 30.2746652, -97.7403505
+DC099_2015:07:01.jpg / cliffs of moher ireland / 52.9715368, -9.4308825
+DC100_2015:09:01.jpg / branden burg gate ( Berlin ) / 52.5162746, 13.377704
+DC105_2015:02:01.jpg / Djinguereber Mosque / 16.7715422, -3.0101439
+DC105_2015:08:01.jpg / Old Trafford Manchester, England / 53.4630589, -2.2913401
+DC108_2015:05:01.jpg / palacio de bellas artes mexico ( Mexico city)  / 19.4352, -99.1412
+DC109_2015:01:01.jpg / Hassan II Mosque casablanca  / 33.6073889, -7.6323399
+DC112_2015:04:01.jpg / Christ the redeemer, Rio de Janeiro, Brazil  / -22.951916, -43.2104872
+DC115_2015:11:01.jpg / Great wall of China / 40.4319077, 116.5703749
+DC117_2015:10:01.jpg / suomenlinna finland / 60.1454, 24.9881401
